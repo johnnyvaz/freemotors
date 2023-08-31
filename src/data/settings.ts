@@ -1,5 +1,5 @@
 export const settings = {
-  site: 'https://simple-blog.littlesticks.dev',
+  site: 'https://freemotors.com.br',
   name: 'FreeMotors Ferramentas',
   title: 'FreeMotors Ferramentas',
   description: '',
