@@ -13,7 +13,7 @@
   --theme-surface-1: hsl(0, 0%, 93%);
   --theme-on-surface-1: hsl(0, 0%, 10%);
 
-  --theme-footer-background: hsl(0, 0%, 3%);
+  --theme-footer-background: #135197;
   --theme-on-footer-background: hsl(0, 0%, 90%);
 
   /* Typography */
