@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: Site em construção
-image: /images/motor1
+image: /images/motor2
 publishedAt: 2023-08-30
 category: 'Avisos'
 ---
