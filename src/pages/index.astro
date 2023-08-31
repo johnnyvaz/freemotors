@@ -8,8 +8,8 @@ const posts = (await Astro.glob('./blog/*.{md,mdx}')).sort(
 );
 
 const seo = {
-  title: 'Simple Blog | A template by Little Sticks',
-  description: 'A simple blog template for Astro by Little Sticks',
+  title: 'FreeMotors Ferramentas Automotivas',
+  description: 'FreeMotors Ferramentas Automotivas',
 }
 ---
 
@@ -27,6 +27,7 @@ const seo = {
     <div class="home-hero-text__container">
       <h1 class="fade-in">FreeMotors Ferramentas</h1>
     </div>
+    <p>Contato: 16 98254-2122</p>
     <BlogPostsList posts={posts}/>
   </Container>
 </Layout>
